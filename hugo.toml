@@ -45,5 +45,12 @@ showPostsSummary = true
     identifier = "github"
     name = "github"
     title = "GitHub"
-    url = "https://github.com/imgios/not-much"
+    url = "https://github.com/Amishk599"
     weight = 4
+
+  [[menu.main]]
+    identifier = "linkedin"
+    name = "linkedin"
+    title = "Linkedin"
+    url = "https://www.linkedin.com/in/amishkushwaha/"
+    weight = 5
